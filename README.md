@@ -1,13 +1,7 @@
 <hr />
 <img src="./ascii-art-text.png">
 <hr />
-<img src="./ascii-art-text02.png">
+<img src="./ascii-text-art07.png">
 <hr />
-<img src="./ascii-art-text03.png">
-<hr />
-<img src="./ascii-art-text04.png">
-<hr />
-<img src="./ascii-art-text05.png">
-<hr />
-<img src="./ascii-art-text06.png">
+<img src="./ascii-art-image.png">
 <hr />
