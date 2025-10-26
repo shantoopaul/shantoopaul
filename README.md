@@ -1,3 +1,3 @@
 
-<img src="ascii-art-image.png">
+<img src="ascii-banner.png">
 Hello
