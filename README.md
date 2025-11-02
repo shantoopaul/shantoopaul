@@ -69,7 +69,7 @@ mindmap
             Environment Variables
             CORS
         )Tooling(
-            VS Code
+            )VS Code(
             npm
             Browser DevTools
             Linux
