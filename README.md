@@ -31,46 +31,46 @@ As a sidequest, I'm also learning how to use Linux 🐧 at <a href="https://labe
 mindmap
     root)Skills(
         )Languages(
-            JavaScript
-            TypeScript
-            HTML
-            CSS
+            )JavaScript(
+            )TypeScript(
+            )HTML(
+            )CSS(
         )Frontend(
-            React
-            Next.js
-            Tailwind CSS
-            Material-UI
-            Shadcn-UI
-            Bootstrap
+            )React(
+            )Next.js(
+            )Tailwind CSS(
+            )Material-UI(
+            )Shadcn-UI(
+            )Bootstrap(
         )Backend(
-            Node.js
-            Express.js
+            )Node.js(
+            )Express.js(
         )Databases(
-            MongoDB
-            SQLite
-            PostgreSQL
+            )MongoDB(
+            )SQLite(
+            )PostgreSQL(
         )APIs & Integrations(
-            RESTful APIs
-            JSON
-            Fetch / Axios
+            )RESTful APIs(
+            )JSON(
+            )Fetch / Axios(
         )Version Control & Collaboration(
-            Git
-            GitHub
-            Git Branching Workflow
+            )Git(
+            )GitHub(
+            )Git Branching Workflow(
         )Deployment(
-            Vercel
-            Netlify
-            Render
+            )Vercel(
+            )Netlify(
+            )Render(
         )Testing & Quality(
-            Postman
-            ESLint / Prettier
+            )Postman(
+            )ESLint / Prettier(
         )Security & Auth(
-            JWT
-            Environment Variables
-            CORS
+            )JWT(
+            )Environment Variables(
+            )CORS(
         )Tooling(
             )VS Code(
-            npm
-            Browser DevTools
-            Linux
+            )npm(
+            )Browser DevTools(
+            )Linux(
 ```
