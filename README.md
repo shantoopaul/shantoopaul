@@ -29,49 +29,48 @@ As a sidequest, I'm also learning how to use Linux 🐧 at <a href="https://labe
 
 ```mermaid
 mindmap
-    root((Skills))
-        ((Languages))
+    root)Skills(
+        )Languages(
             JavaScript
-            TypeScript (Learning)
+            TypeScript
             HTML
             CSS
-            Bash (Basic)
-        ((Frontend))
+        )Frontend(
             React
-            Next.js (Learning)
+            Next.js
             Tailwind CSS
             Material-UI
             Shadcn-UI
             Bootstrap
-        ((Backend))
+        )Backend(
             Node.js
             Express.js
-        ((Databases))
+        )Databases(
             MongoDB
             SQLite
-            PostgreSQL (Basic)
-        ((APIs & Integrations))
+            PostgreSQL
+        )APIs & Integrations(
             RESTful APIs
             JSON
             Fetch / Axios
-        ((Version Control & Collaboration))
+        )Version Control & Collaboration(
             Git
             GitHub
             Git Branching Workflow
-        ((Deployment))
+        )Deployment(
             Vercel
             Netlify
             Render
-        ((Testing & Quality))
+        )Testing & Quality(
             Postman
             ESLint / Prettier
-        ((Security & Auth))
-            JWT (Basic)
+        )Security & Auth(
+            JWT
             Environment Variables
             CORS
-        ((Tooling))
+        )Tooling(
             VS Code
-            npm / pnpm
+            npm
             Browser DevTools
-            Linux (Learning)
+            Linux
 ```
