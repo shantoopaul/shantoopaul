@@ -26,3 +26,79 @@ As a sidequest, I'm also learning how to use Linux 🐧 at <a href="https://labe
   <small>Languages used in my repos - big fan of JavaScript 😄</small>
   <br /><br />
 </div>
+
+```mermaid
+mindmap
+    root((Skills))
+        ((Languages))
+            JavaScript
+            TypeScript
+            SQL
+            Bash
+        ((Frontend))
+            React
+            Next.js
+            Material-UI
+            Tailwind
+            Shadcn-UI
+            Ant Design
+            Bootstrap
+            D3.js
+        ((Backend))
+            Node.js
+            Express
+            Nest.js
+            Prisma
+            TypeORM
+        ((Databases))
+            PostgreSQL
+            MySQL
+            SQLite
+            MongoDB
+            Redis
+        ((APIs & Integrations))
+            REST
+            GraphQL
+            WebSockets
+            Swagger / OpenAPI
+        ((DevOps))
+            Git
+            Docker
+            GitHub Actions
+            CircleCI
+            Terraform
+        ((Cloud & Deployment))
+            AWS
+            S3
+            Lambda
+            EC2
+            ECS
+            Fargate
+            RDS
+            CloudFront
+            Load Balancer
+            CI/CD Pipelines
+            Nginx
+            Vercel
+            Netlify
+        ((Testing & Quality))
+            Jest
+            Mocha / Chai
+            Cypress
+            Playwright
+            Postman
+            ESLint / Prettier
+        ((Security & Auth))
+            JWT
+            OAuth2
+            HTTPS
+            CORS
+            Environment Variables
+            Helmet
+        ((Tooling & Collaboration))
+            VS Code
+            GitHub / GitLab
+            Docker Compose
+            Postman
+            Pre-commit Hooks
+```
