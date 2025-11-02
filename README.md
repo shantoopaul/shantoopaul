@@ -32,73 +32,46 @@ mindmap
     root((Skills))
         ((Languages))
             JavaScript
-            TypeScript
-            SQL
-            Bash
+            TypeScript (Learning)
+            HTML
+            CSS
+            Bash (Basic)
         ((Frontend))
             React
-            Next.js
+            Next.js (Learning)
+            Tailwind CSS
             Material-UI
-            Tailwind
             Shadcn-UI
-            Ant Design
             Bootstrap
-            D3.js
         ((Backend))
             Node.js
-            Express
-            Nest.js
-            Prisma
-            TypeORM
+            Express.js
         ((Databases))
-            PostgreSQL
-            MySQL
-            SQLite
             MongoDB
-            Redis
+            SQLite
+            PostgreSQL (Basic)
         ((APIs & Integrations))
-            REST
-            GraphQL
-            WebSockets
-            Swagger / OpenAPI
-        ((DevOps))
+            RESTful APIs
+            JSON
+            Fetch / Axios
+        ((Version Control & Collaboration))
             Git
-            Docker
-            GitHub Actions
-            CircleCI
-            Terraform
-        ((Cloud & Deployment))
-            AWS
-            S3
-            Lambda
-            EC2
-            ECS
-            Fargate
-            RDS
-            CloudFront
-            Load Balancer
-            CI/CD Pipelines
-            Nginx
+            GitHub
+            Git Branching Workflow
+        ((Deployment))
             Vercel
             Netlify
+            Render
         ((Testing & Quality))
-            Jest
-            Mocha / Chai
-            Cypress
-            Playwright
             Postman
             ESLint / Prettier
         ((Security & Auth))
-            JWT
-            OAuth2
-            HTTPS
-            CORS
+            JWT (Basic)
             Environment Variables
-            Helmet
-        ((Tooling & Collaboration))
+            CORS
+        ((Tooling))
             VS Code
-            GitHub / GitLab
-            Docker Compose
-            Postman
-            Pre-commit Hooks
+            npm / pnpm
+            Browser DevTools
+            Linux (Learning)
 ```
