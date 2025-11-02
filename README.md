@@ -1,5 +1,5 @@
-<a href="https://github.com/shantoopaul">
-    <img src="./assets/shanto-paul-ascii-banner.png" alt="Cool ASCII art that says my name 'Shanto Paul' in slant font style" vspace="0" />
+<a href="https://github.com/shantoopaul" style="max-height: 0" >
+    <img src="./assets/shanto-paul-ascii-banner.png" alt="Cool ASCII art that says my name 'Shanto Paul' in slant font style" />
 </a>
 <div align="center">
 <a href="mailto:shantoopaul@gmail.com"><code>E-mail</code></a> •
