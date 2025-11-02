@@ -1,5 +1,5 @@
 <picture>
-    <img src="./assets/shanto-paul-ascii-banner.png" alt="Cool ASCII art that says my name 'Shanto Paul' in slant font style" style="height:auto;" />
+    <img src="./assets/shanto-paul-ascii-banner.png" alt="Cool ASCII art that says my name 'Shanto Paul' in slant font style" />
 </picture>
 <div align="center">
 <a href="mailto:shantoopaul@gmail.com"><code>E-mail</code></a> •
