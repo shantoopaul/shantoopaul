@@ -28,6 +28,10 @@ As a sidequest, I'm also learning how to use Linux 🐧 at <a href="https://labe
 </div>
 
 ```mermaid
+---
+config:
+  theme: 'forest'
+---
 mindmap
     root)Skills(
         )Languages(
