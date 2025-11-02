@@ -2,7 +2,6 @@
     <img src="./assets/ascii-art-image.png" alt="Cool ASCII art that says my name 'Shanto Paul' in slant font style" />
 </a>
 <p align="center">
-    <br />
     <a href="mailto:shantoopaul@gmail.com"><code>E-mail</code></a> •
     <a href="https://x.com/shan_t0"><code>X (Twitter)</code></a> •
     <a href="https://www.linkedin.com/in/shantoopaul/"><code>LinkedIn</code></a> •
