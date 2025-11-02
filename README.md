@@ -21,7 +21,7 @@ As a sidequest, I'm also learning how to use Linux 🐧 at <a href="https://labe
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantoopaul&layout=compact&hide_title=1&card_width=300&count_private=true&theme=shadow_green" alt="Top languages used in my repositories" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantoopaul&layout=compact&hide_title=1&card_width=300&count_private=true&theme=merko" alt="Top languages used in my repositories" />
   <br />
   <small>Languages used in my repos - big fan of JavaScript 😄</small>
   <br /><br />
