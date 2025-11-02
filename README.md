@@ -27,7 +27,7 @@ As a sidequest, I'm also learning how to use Linux 🐧 at <a href="https://labe
   <br /><br />
 </div>
 
-```css
+```mermaid
 mindmap
     root((Skills))
         ((Languages))
