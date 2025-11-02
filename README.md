@@ -5,7 +5,9 @@
     <a href="https://www.linkedin.com/in/shantoopaul/"><code>LinkedIn</code></a> •
     <a href="https://bsky.app/profile/shantopaul.bsky.social"><code>Bluesky</code></a>
 </div>
+
 ---
+
 Hello there 👋 I'm Shanto, Fullstack developer from **Dhaka**, **Bangladesh**. I've completed [Programming Hero](https://www.programming-hero.com)'s [Complete Web Development](https://web.programming-hero.com/home) course earlier this year. I'm currently working on [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/shantoopaul) to improve my frontend skills and explore new technologies. As a sidequest, I'm learning how to work with Linux at [Labex](https://labex.io/users/shanto-paul-66614890).
 
 
