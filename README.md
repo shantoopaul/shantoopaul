@@ -16,12 +16,12 @@
 Hey there 👋 I'm <strong>Shanto</strong>, Fullstack Developer from <strong>Dhaka, Bangladesh</strong>.  
 I recently completed the <a href="https://www.programming-hero.com">Programming Hero</a> 
 <a href="https://web.programming-hero.com/home">Complete Web Development</a> course earlier this year.  
-Right now, I'm working on <a href="https://www.frontendmentor.io/profile/shantoopaul">Frontend Mentor challenges</a> to improve my frontend skills and explore new technologies.  
+Right now, I'm working on <a href="https://www.frontendmentor.io/profile/shantoopaul">Frontend Mentor challenges</a> to improve my frontend skills as well as exploring new technologies.  
 As a sidequest, I'm also learning how to use Linux 🐧 at <a href="https://labex.io/users/shanto-paul-66614890">Labex</a>.
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantoopaul&layout=compact&hide_title=1&card_width=300&count_private=true" alt="Top languages used in my repositories" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantoopaul&layout=compact&hide_title=1&card_width=300&count_private=true&theme=transparent" alt="Top languages used in my repositories" />
   <br />
   <small>Languages used in my repos - big fan of JavaScript 😄</small>
   <br /><br />
