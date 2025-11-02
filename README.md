@@ -1,4 +1,4 @@
-<a href="https://github.com/shantoopaul" style="max-height: 0" >
+<a href="https://github.com/shantoopaul" style="position: absolute" >
     <img src="./assets/shanto-paul-ascii-banner.png" alt="Cool ASCII art that says my name 'Shanto Paul' in slant font style" />
 </a>
 <div align="center">
