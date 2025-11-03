@@ -35,58 +35,6 @@ config:
 ---
 mindmap
     root)Skills(
-        )Languages(
-            )JavaScript(
-            )TypeScript(
-            )HTML(
-            )CSS(
-        )Frontend(
-            )React(
-            )Next.js(
-            )Tailwind CSS(
-            )Material-UI(
-            )Shadcn-UI(
-            )Bootstrap(
-        )Backend(
-            )Node.js(
-            )Express.js(
-        )Databases(
-            )MongoDB(
-            )SQLite(
-            )PostgreSQL(
-        )APIs & Integrations(
-            )RESTful APIs(
-            )JSON(
-            )Fetch / Axios(
-        )Version Control & Collaboration(
-            )Git(
-            )GitHub(
-            )Git Branching Workflow(
-        )Deployment(
-            )Vercel(
-            )Netlify(
-            )Render(
-        )Testing & Quality(
-            )Postman(
-            )ESLint / Prettier(
-        )Security & Auth(
-            )JWT(
-            )Environment Variables(
-            )CORS(
-        )Tooling(
-            )VS Code(
-            )npm(
-            )Browser DevTools(
-            )Linux(
-```
-
-```mermaid
----
-config:
-  theme: 'forest'
----
-mindmap
-    root)Skills(
         )Languages & Tools(
             )JavaScript(
             )TypeScript(
@@ -99,6 +47,7 @@ mindmap
             )Next.js(
             )Tailwind CSS(
             )Material-UI(
+            )Shadcn-UI(
             )Bootstrap(
         )Backend(
             )Node.js(
@@ -108,6 +57,7 @@ mindmap
             )MongoDB(
             )SQLite(
             )PostgreSQL(
+            )MariaDB(
         )Deployment & Workflow(
             )Vercel(
             )Netlify(
