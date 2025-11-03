@@ -38,6 +38,8 @@ mindmap
         )Languages(
             )JavaScript(
             )TypeScript(
+            )GraphQL(
+            )SQL(
             )Bash(
         )Frontend(
             )React.js(
@@ -50,12 +52,20 @@ mindmap
             )Styled components(
             )Shadcn UI(            
             )Hero UI(
+            )Jest(
+            )Cypress(
+            )Accessibility(
         )Backend(
             )Node.js(
             )Express.js(
+            )Zod(
+            )Oslo.js(
+            )Prisma(
+            )Inngest(
             )MongoDB(
             )MariaDB(
             )Supabase(
+            )GraphQL APIs(
             )RESTful APIs(
         )Tools & Workflow(
             )Git(
