@@ -35,34 +35,53 @@ config:
 ---
 mindmap
     root)Skills(
-        )Languages & Tools(
+        )Languages(
             )JavaScript(
             )TypeScript(
-            )HTML(
-            )CSS(
+            )HTML5(
+            )CSS3(
             )Bash(
-            )Git & GitHub(
         )Frontend(
-            )React(
+            )React.js(
             )Next.js(
+            )Redux(
+            )React Hooks(
+            )State Management(
             )Tailwind CSS(
-            )Material-UI(
-            )Shadcn-UI(
-            )Bootstrap(
+            )Material UI(
+            )Styled components(
+            )Shadcn UI(            
+            )Hero UI(
         )Backend(
             )Node.js(
             )Express.js(
-            )RESTful APIs(
-        )Databases(
             )MongoDB(
-            )SQLite(
-            )PostgreSQL(
             )MariaDB(
-        )Deployment & Workflow(
-            )Vercel(
-            )Netlify(
-            )Render(
+            )Supabase(
+            )RESTful APIs(
+            )RESTful Architecture(
+        )Tools & Workflow(
+            )Git(
+            )GitHub(
+            )Version Control(
             )Postman(
             )ESLint / Prettier(
+            )Vercel(
+            )Netlify(
+            )Firebase(
             )Linux(
+        )Development Practices(
+            )Clean Coding(
+            )Debugging(
+            )Cross-Browser Compatibility(
+            )Object-Oriented Programming(
+        )Soft Skills & Collaboration(
+            )Agile Development(
+            )Communication(
+            )Written Communication(
+            )Attention to Detail(
+            )Team Collaboration(
+            )Figma(
+            )Slack(
+            )Notion(
 ```
