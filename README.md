@@ -27,6 +27,8 @@ As a sidequest, I'm also learning how to use Linux 🐧 at <a href="https://labe
   <br /><br />
 </div>
 
+<h2>🗺️ My Dev Journey (Skill Map)</h2>
+
 [//]: # (https://mermaid.js.org/)
 ```mermaid
 ---
