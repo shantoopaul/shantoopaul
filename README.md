@@ -27,6 +27,7 @@ As a sidequest, I'm also learning how to use Linux 🐧 at <a href="https://labe
   <br /><br />
 </div>
 
+[//]: # (https://mermaid.js.org/)
 ```mermaid
 ---
 config:
@@ -76,5 +77,38 @@ mindmap
             )VS Code(
             )npm(
             )Browser DevTools(
+            )Linux(
+```
+
+```mermaid
+mindmap
+    root)Skills(
+        )Languages & Tools(
+            )JavaScript(
+            )TypeScript(
+            )HTML(
+            )CSS(
+            )Bash (Basic)(
+            )Git & GitHub(
+        )Frontend(
+            )React(
+            )Next.js(
+            )Tailwind CSS(
+            )Material-UI(
+            )Bootstrap(
+        )Backend(
+            )Node.js(
+            )Express.js(
+            )RESTful APIs(
+        )Databases(
+            )MongoDB(
+            )SQLite(
+            )PostgreSQL(
+        )Deployment & Workflow(
+            )Vercel(
+            )Netlify(
+            )Render(
+            )Postman(
+            )ESLint / Prettier(
             )Linux(
 ```
