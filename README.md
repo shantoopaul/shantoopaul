@@ -38,8 +38,6 @@ mindmap
         )Languages(
             )JavaScript(
             )TypeScript(
-            )HTML5(
-            )CSS3(
             )Bash(
         )Frontend(
             )React.js(
@@ -59,29 +57,12 @@ mindmap
             )MariaDB(
             )Supabase(
             )RESTful APIs(
-            )RESTful Architecture(
         )Tools & Workflow(
             )Git(
             )GitHub(
-            )Version Control(
             )Postman(
-            )ESLint / Prettier(
             )Vercel(
             )Netlify(
             )Firebase(
             )Linux(
-        )Development Practices(
-            )Clean Coding(
-            )Debugging(
-            )Cross-Browser Compatibility(
-            )Object-Oriented Programming(
-        )Soft Skills & Collaboration(
-            )Agile Development(
-            )Communication(
-            )Written Communication(
-            )Attention to Detail(
-            )Team Collaboration(
-            )Figma(
-            )Slack(
-            )Notion(
 ```
