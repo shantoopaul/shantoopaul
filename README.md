@@ -88,7 +88,7 @@ mindmap
             )TypeScript(
             )HTML(
             )CSS(
-            )Bash (Basic)(
+            )Bash(
             )Git & GitHub(
         )Frontend(
             )React(
