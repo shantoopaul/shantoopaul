@@ -81,6 +81,10 @@ mindmap
 ```
 
 ```mermaid
+---
+config:
+  theme: 'forest'
+---
 mindmap
     root)Skills(
         )Languages & Tools(
