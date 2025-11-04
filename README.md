@@ -14,7 +14,7 @@
 
 <p>
 Hey there 👋 I'm <strong>Shanto</strong>, Fullstack Developer from <strong>Dhaka, Bangladesh</strong>.  
-I recently completed the <a href="https://www.programming-hero.com">Programming Hero</a> 
+I recently completed the <a href="https://www.programming-hero.com">Programming Hero</a>
 <a href="https://web.programming-hero.com/home">Complete Web Development</a> course earlier this year.  
 Right now, I'm working on <a href="https://www.frontendmentor.io/profile/shantoopaul">Frontend Mentor challenges</a> to improve my frontend skills as well as exploring new technologies.  
 As a sidequest, I'm also learning how to use Linux 🐧 at <a href="https://labex.io/users/shanto-paul-66614890">Labex</a>.
@@ -29,7 +29,7 @@ As a sidequest, I'm also learning how to use Linux 🐧 at <a href="https://labe
 
 <h3>🗺️ My Dev Journey (Skill Map)</h3>
 
-[//]: # (https://mermaid.js.org/)
+<!-- https://mermaid.js.org/ -->
 ```mermaid
 ---
 config:
@@ -78,3 +78,5 @@ mindmap
             )Firebase(
             )Linux(
 ```
+
+<!-- I'm not done with it yet. Will come back later someday again :)-->
