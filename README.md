@@ -13,7 +13,7 @@
 <hr />
 
 <p>
-Hey there 👋 I'm <strong>Shanto</strong>, Fullstack Developer from <strong>Dhaka, Bangladesh</strong>.  
+Hey there 👋 I'm <strong>Shanto</strong>, Frontend Developer from <strong>Dhaka, Bangladesh</strong>.  
 I recently completed the <a href="https://www.programming-hero.com">Programming Hero</a>
 <a href="https://web.programming-hero.com/home">Complete Web Development</a> course earlier this year.  
 Right now, I'm working on <a href="https://www.frontendmentor.io/profile/shantoopaul">Frontend Mentor challenges</a> to improve my frontend skills as well as exploring new technologies.  
@@ -40,8 +40,6 @@ mindmap
         )Languages(
             )JavaScript(
             )TypeScript(
-            )GraphQL(
-            )SQL(
             )Bash(
         )Frontend(
             )React.js(
@@ -54,20 +52,15 @@ mindmap
             )Styled components(
             )Shadcn UI(            
             )Hero UI(
-            )Jest(
-            )Cypress(
             )Accessibility(
         )Backend(
             )Node.js(
             )Express.js(
             )Zod(
-            )Oslo.js(
             )Prisma(
-            )Inngest(
             )MongoDB(
             )MariaDB(
             )Supabase(
-            )GraphQL APIs(
             )RESTful APIs(
         )Tools & Workflow(
             )Git(
