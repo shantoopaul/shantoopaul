@@ -51,7 +51,7 @@ Hey there! 👋 I'm **Shanto**, a passionate **Fullstack Developer** based in **
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-003545?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
   <br/><br/>
 
   **Tools & Workflow**<br/>
@@ -65,9 +65,14 @@ Hey there! 👋 I'm **Shanto**, a passionate **Fullstack Developer** based in **
 
 <hr />
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantoopaul&theme=forest&hide_border=true" alt="GitHub Streak" />
-</div>
+## 📊 GitHub Stats  
+
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-stats-extended.vercel.app/api?username=shantoopaul&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha) | ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=shantoopaul&layout=compact&langs_count=7&hide_values=true&theme=catppuccin_mocha) |
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=shantoopaul&style=flat-square)
 
 <!-- I'm not done with it yet. Will come back later someday again :)-->
